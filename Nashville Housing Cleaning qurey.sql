@@ -1,5 +1,6 @@
 
 --#Cleaning Nashville Housing Data
+-- Name of database is PortfolioProject
 ------------------------------------------
 
 Select *
